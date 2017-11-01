@@ -5,7 +5,7 @@ package Sah::Schema::true;
 
 our $schema = [bool => {
     summary => 'A true boolean',
-    is_bool => 1,
+    is_true => 1,
 }, {}];
 
 1;
