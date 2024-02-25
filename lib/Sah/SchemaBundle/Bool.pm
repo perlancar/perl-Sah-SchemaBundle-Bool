@@ -1,4 +1,4 @@
-package Sah::Schemas::Bool;
+package Sah::SchemaBundle::Bool;
 
 use strict;
 
